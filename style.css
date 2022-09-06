@@ -254,3 +254,19 @@ main {
     padding: 1.5em;
     font-size: 0.85rem;
 }
+
+.people-card {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 1em;
+}
+  
+.people-card > img {
+    height: 50px;
+    border-radius: 50%;
+    width: 50px;
+}
+  
+.tag {
+    font-weight: 500;
+}
