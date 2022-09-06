@@ -223,3 +223,10 @@ main {
     display: grid;
     grid-template-rows: auto 1fr;
 }
+
+.update {
+    background-color: white;
+    padding: 1.5em;
+    font-size: 0.85rem;
+    border-radius: 0.8em;
+}
