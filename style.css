@@ -71,3 +71,9 @@ header {
     align-items: center;
     max-width: 600px;
 }
+
+.search input {
+    flex: 1;
+    margin-left: 0.8em;
+    border-radius: 2em;
+}
