@@ -146,3 +146,9 @@ aside {
     padding: 1em;
     background-color: #344e41;
 }
+
+.one {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 1em;
+}
