@@ -164,3 +164,14 @@ aside {
   grid-template-columns: auto 1fr;
   gap: 1em;
 }
+
+/* MAIN AREA */
+main {
+    grid-area: main;
+    background-color: #dad7cd;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding: 2em 1em;
+    gap: 1em;
+}
+  
