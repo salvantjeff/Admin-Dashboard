@@ -99,3 +99,10 @@ header {
 .profile > p {
     font-weight: 500;
 }
+
+/* HEADER AREA -- bottom */
+.bottom {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    padding: 0 1em;
+}
