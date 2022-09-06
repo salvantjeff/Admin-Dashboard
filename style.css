@@ -179,4 +179,10 @@ main {
     font-weight: 600;
     margin-bottom: 0.5em;
 }
+
+.project_cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1em;
+}
   
