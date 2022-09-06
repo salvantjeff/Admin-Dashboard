@@ -199,3 +199,7 @@ main {
     font-weight: 600;
     margin-bottom: 0.4em;
 }
+
+.card-details__message {
+    margin-bottom: 1em;
+}
