@@ -194,3 +194,8 @@ main {
     border-left: 6px solid #8338ec;
     font-size: 0.85rem;
 }
+
+.card-details__title {
+    font-weight: 600;
+    margin-bottom: 0.4em;
+}
