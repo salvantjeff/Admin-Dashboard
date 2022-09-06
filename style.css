@@ -58,3 +58,10 @@ header {
     grid-area: header;
     display: grid;
 }
+
+.top {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 3em;
+    padding: 1em;
+}
