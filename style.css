@@ -119,3 +119,10 @@ header {
     align-items: center;
     padding-bottom: 1em;
 }
+
+.actions ul {
+    height: 100%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
