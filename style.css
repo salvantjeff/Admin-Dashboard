@@ -111,3 +111,11 @@ header {
     border-radius: 50%;
     height: 70px;
 }
+
+.user {
+    display: grid;
+    grid-template-columns: 70px 1fr;
+    gap: 1em;
+    align-items: center;
+    padding-bottom: 1em;
+}
