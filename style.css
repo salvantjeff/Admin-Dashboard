@@ -126,3 +126,12 @@ header {
     justify-content: end;
     align-items: center;
 }
+
+.actions ul > li {
+    font-size: 0.85rem;
+    margin-left: 1rem;
+    background-color: #3a86ff;
+    padding: 0.5em 1em;
+    border-radius: 2em;
+    color: white;
+}
