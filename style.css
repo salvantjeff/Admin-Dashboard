@@ -144,7 +144,7 @@ aside {
     grid-template-rows: auto auto 1fr;
     gap: 2em;
     padding: 1em;
-    background-color: #344e41;
+    background-color: #3a86ff;
 }
 
 .one {
@@ -215,7 +215,7 @@ main {
     height: max-content;
     background-color: white;
     border-radius: 0.5em;
-    border-left: 6px solid #8338ec;
+    border-left: 6px solid #fca311;
     font-size: 0.85rem;
     height: 350px;
 
