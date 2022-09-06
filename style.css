@@ -244,3 +244,13 @@ main {
 .update-details__title {
     font-weight: 600;
 }
+
+/* NEWS AREA --> Trending */
+.people {
+    display: grid;
+    gap: 1em;
+    border-radius: 0.8em;
+    background-color: white;
+    padding: 1.5em;
+    font-size: 0.85rem;
+}
