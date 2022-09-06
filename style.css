@@ -34,3 +34,9 @@ img {
     object-fit: cover;
     object-position: center;
 }
+
+/* body defaults */
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #222;
+}
