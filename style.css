@@ -152,3 +152,15 @@ aside {
     grid-template-columns: auto 1fr;
     gap: 1em;
 }
+
+.two,
+.three {
+  display: grid;
+  gap: 1em;
+}
+
+.menu {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1em;
+}
