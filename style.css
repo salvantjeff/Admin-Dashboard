@@ -40,3 +40,14 @@ body {
     font-family: 'Poppins', sans-serif;
     color: #222;
 }
+
+/* CONTENTS */
+.container {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-template-rows: auto 4fr;
+    grid-template-areas: 
+      'side header'
+      'side main'
+    ;
+}
