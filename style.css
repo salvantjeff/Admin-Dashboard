@@ -185,4 +185,12 @@ main {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 1em;
 }
-  
+
+.card {
+    padding: 1em;
+    height: max-content;
+    background-color: white;
+    border-radius: 0.5em;
+    border-left: 6px solid #8338ec;
+    font-size: 0.85rem;
+}
