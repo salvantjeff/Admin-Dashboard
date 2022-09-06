@@ -51,3 +51,10 @@ body {
       'side main'
     ;
 }
+
+/* HEADER AREA */
+/* HEADER AREA -- top */
+header {
+    grid-area: header;
+    display: grid;
+}
