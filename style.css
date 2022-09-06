@@ -212,3 +212,14 @@ main {
 .card-actions > span {
     margin-left: 0.5em;
 }
+
+/* MAIN AREA --> NEWS */
+.news {
+    display: grid;
+    gap: 3em;
+}
+  
+.box {
+    display: grid;
+    grid-template-rows: auto 1fr;
+}
