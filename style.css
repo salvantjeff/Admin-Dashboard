@@ -135,3 +135,14 @@ header {
     border-radius: 2em;
     color: white;
 }
+
+/* SIDEBAR AREA */
+aside {
+    color: white;
+    grid-area: side;
+    display: grid;
+    grid-template-rows: auto auto 1fr;
+    gap: 2em;
+    padding: 1em;
+    background-color: #344e41;
+}
