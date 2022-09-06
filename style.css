@@ -203,3 +203,12 @@ main {
 .card-details__message {
     margin-bottom: 1em;
 }
+
+.card-actions {
+    display: flex;
+    justify-content: end;
+}
+  
+.card-actions > span {
+    margin-left: 0.5em;
+}
